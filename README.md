@@ -2,7 +2,9 @@ FMBS
 ==============
 
 C++ implementation of the fuzzy connection value computation, from the fuzzy marker based segmentation atrticles:
+
 [1] "New hierarchy-based segmentation layer: towards automatic marker proposal." 2021 34th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI). IEEE, 2021.
+
 [2] "Fuzzy-marker-based segmentation using hierarchies." International Conference on Discrete Geometry and Mathematical Morphology. Cham: Springer International Publishing, 2021.
 
 
